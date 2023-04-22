@@ -10,8 +10,10 @@ public class FakerGenerator1Application {
 		SpringApplication.run(FakerGenerator1Application.class, args);
 
 		System.out.println("---------------------Wllcome----------------");
-		System.out.println("----------Wellcome to dropdata---------------");
-
+		System.out.println("shubham shinde");
+		
+		
+		System.out.println("git changes");
 	}
 
 }
