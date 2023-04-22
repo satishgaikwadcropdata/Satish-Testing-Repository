@@ -14,6 +14,10 @@ public class FakerGenerator1Application {
 		
 		
 		System.out.println("git changes");
+		
+		System.out.println("Hello Shubham");
+		
+		System.out.println("Testing marge config");
 	}
 
 }
